@@ -1,4 +1,4 @@
-# Personal Tech Project Ideas
+# 👩‍💻Personal Tech Project Ideas🧑‍💻
 
 # Introduction:
 ### Hello everyone👋, Hope all are doing well. Welcome to this repository, this repository is for gaining project ideas. 
